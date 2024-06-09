@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\bin\Debug\net8.0\SplaskitDemo.exe
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\bin\Debug\net8.0\SplaskitDemo.deps.json
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\bin\Debug\net8.0\SplaskitDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\bin\Debug\net8.0\SplaskitDemo.dll
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\bin\Debug\net8.0\SplaskitDemo.pdb
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.sourcelink.json
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.dll
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\refint\SplaskitDemo.dll
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.pdb
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\SplaskitDemo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\COS20007-Object-Oriented-Programming\SplaskitDemo\obj\Debug\net8.0\ref\SplaskitDemo.dll
