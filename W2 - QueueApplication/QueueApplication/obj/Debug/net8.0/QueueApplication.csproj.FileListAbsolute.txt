@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll

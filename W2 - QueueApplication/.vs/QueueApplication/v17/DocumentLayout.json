@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1D485-3C10-47A0-9E29-C78D57195714}|QueueApplication\\QueueApplication.csproj|c:\\users\\admin\\source\\repos\\queueapplication\\queueapplication\\2.1.5p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE1D485-3C10-47A0-9E29-C78D57195714}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\2.1.5p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F4C5-33DA-4ED1-9D18-9EAFD04944DB}|TestQueue\\TestQueue.csproj|c:\\users\\admin\\source\\repos\\queueapplication\\testqueue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2F4C5-33DA-4ED1-9D18-9EAFD04944DB}|TestQueue\\TestQueue.csproj|solutionrelative:testqueue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE1D485-3C10-47A0-9E29-C78D57195714}|QueueApplication\\QueueApplication.csproj|c:\\users\\admin\\source\\repos\\queueapplication\\queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE1D485-3C10-47A0-9E29-C78D57195714}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegerQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\IntegerQueue.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeToolTip": "QueueApplication\\IntegerQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:20:22.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.1.5P.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\QueueApplication\\2.1.5P.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\2.1.5P.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\QueueApplication\\2.1.5P.cs",
+              "RelativeToolTip": "QueueApplication\\2.1.5P.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:20:09.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\TestQueue\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestQueue\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QueueApplication\\TestQueue\\UnitTest1.cs",
+              "RelativeToolTip": "TestQueue\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:37:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

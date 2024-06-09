@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\shapedrawerenhanced\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\shapedrawerenhanced\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\shapedrawerenhanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:55:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:55:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhanced\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:55:50.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

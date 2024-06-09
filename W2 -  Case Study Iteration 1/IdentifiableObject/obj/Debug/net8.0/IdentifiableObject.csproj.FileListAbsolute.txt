@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.exe
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.deps.json
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.runtimeconfig.json
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.dll
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\bin\Debug\net8.0\IdentifiableObject.pdb
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.dll
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\refint\IdentifiableObject.dll
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.pdb
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\IdentifiableObject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\IdentifiableObject\IdentifiableObject\obj\Debug\net8.0\ref\IdentifiableObject.dll
