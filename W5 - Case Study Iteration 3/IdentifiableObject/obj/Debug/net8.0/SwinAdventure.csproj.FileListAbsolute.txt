@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3 (chưa làm)\IdentifiableObject\obj\Debug\net8.0\ref\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\W5 - Case Study Iteration 3\IdentifiableObject\obj\Debug\net8.0\ref\SwinAdventure.dll
