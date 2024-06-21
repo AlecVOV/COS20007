@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477DBED7-2E00-455E-898B-44BFA40D6865}|Clock\\Clock.csproj|c:\\users\\admin\\source\\repos\\w3 - clock class\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477DBED7-2E00-455E-898B-44BFA40D6865}|Clock\\Clock.csproj|solutionrelative:clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7584A06-FD91-427F-AA26-AF5B5ADDFDF0}|TestClock\\TestClock.csproj|c:\\users\\admin\\source\\repos\\w3 - clock class\\testclock\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7584A06-FD91-427F-AA26-AF5B5ADDFDF0}|TestClock\\TestClock.csproj|solutionrelative:testclock\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7584A06-FD91-427F-AA26-AF5B5ADDFDF0}|TestClock\\TestClock.csproj|c:\\users\\admin\\source\\repos\\w3 - clock class\\testclock\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7584A06-FD91-427F-AA26-AF5B5ADDFDF0}|TestClock\\TestClock.csproj|solutionrelative:testclock\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\Clock\\Clock.cs",
+              "RelativeDocumentMoniker": "Clock\\Clock.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\Clock\\Clock.cs",
+              "RelativeToolTip": "Clock\\Clock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:15:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\TestClock\\CounterTest.cs",
+              "RelativeDocumentMoniker": "TestClock\\CounterTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\TestClock\\CounterTest.cs",
+              "RelativeToolTip": "TestClock\\CounterTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:24:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\TestClock\\ClockTest.cs",
+              "RelativeDocumentMoniker": "TestClock\\ClockTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W3 - CLock Class\\TestClock\\ClockTest.cs",
+              "RelativeToolTip": "TestClock\\ClockTest.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:04:44.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
