@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\Semester Test\SemesterTest\obj\Debug\net8.0\refint\Semest
 C:\Users\Admin\Desktop\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.pdb
 C:\Users\Admin\Desktop\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Semester Test\SemesterTest\obj\Debug\net8.0\ref\SemesterTest.dll
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\bin\Debug\net8.0\SemesterTest.exe
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\bin\Debug\net8.0\SemesterTest.deps.json
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\bin\Debug\net8.0\SemesterTest.runtimeconfig.json
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\bin\Debug\net8.0\SemesterTest.dll
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\bin\Debug\net8.0\SemesterTest.pdb
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.dll
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\refint\SemesterTest.dll
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.pdb
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\SemesterTest.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Semester Test\SemesterTest\obj\Debug\net8.0\ref\SemesterTest.dll

@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Semester Test\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Semester Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\desktop\\semester test\\semestertest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\source\\repos\\semester test\\semestertest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|solutionrelative:semestertest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\source\\repos\\semester test\\semestertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|solutionrelative:semestertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\source\\repos\\semester test\\semestertest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|solutionrelative:semestertest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\source\\repos\\semester test\\semestertest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|solutionrelative:semestertest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|c:\\users\\admin\\source\\repos\\semester test\\semestertest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D347B46-1EBB-4A59-B76E-EEB7B0A802A5}|SemesterTest\\SemesterTest.csproj|solutionrelative:semestertest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,20 +37,68 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Program.cs",
+              "RelativeDocumentMoniker": "SemesterTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Program.cs",
+              "RelativeToolTip": "SemesterTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:09:33.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileSystem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Semester Test\\SemesterTest\\FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\FileSystem.cs",
               "RelativeDocumentMoniker": "SemesterTest\\FileSystem.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Semester Test\\SemesterTest\\FileSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\FileSystem.cs",
               "RelativeToolTip": "SemesterTest\\FileSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T04:10:11.208Z",
+              "WhenOpened": "2024-06-28T17:09:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Thing.cs",
+              "RelativeDocumentMoniker": "SemesterTest\\Thing.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Thing.cs",
+              "RelativeToolTip": "SemesterTest\\Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:03:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Folder.cs",
+              "RelativeDocumentMoniker": "SemesterTest\\Folder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\Folder.cs",
+              "RelativeToolTip": "SemesterTest\\Folder.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:03:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\File.cs",
+              "RelativeDocumentMoniker": "SemesterTest\\File.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Semester Test\\SemesterTest\\File.cs",
+              "RelativeToolTip": "SemesterTest\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:56:59.961Z",
               "EditorCaption": ""
             }
           ]
