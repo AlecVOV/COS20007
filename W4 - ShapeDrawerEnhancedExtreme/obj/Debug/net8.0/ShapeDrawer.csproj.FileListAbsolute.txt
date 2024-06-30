@@ -40,3 +40,17 @@ C:\Users\Admin\source\repos\ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDra
 C:\Users\Admin\source\repos\ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.pdb
 C:\Users\Admin\source\repos\ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ref\ShapeDrawer.dll
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.exe
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.dll
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.dll
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\W4 - ShapeDrawerEnhancedExtreme\obj\Debug\net8.0\ref\ShapeDrawer.dll

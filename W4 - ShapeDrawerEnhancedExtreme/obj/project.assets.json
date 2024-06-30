@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhancedExtreme\\ShapeDrawer.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\ShapeDrawer.csproj",
       "projectName": "ShapeDrawer",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhancedExtreme\\ShapeDrawer.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\ShapeDrawer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\ShapeDrawerEnhancedExtreme\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\TestSwinAdventure.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\TestSwinAdventure.csproj",
       "projectName": "TestSwinAdventure",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\TestSwinAdventure.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\TestSwinAdventure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1024,8 +1024,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\SwinAdventure.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\SwinAdventure.csproj"
+            "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\SwinAdventure.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\SwinAdventure.csproj"
             }
           }
         }

@@ -44,7 +44,6 @@
             return itemToRemove;
         }
 
-
         public Item Fetch(string id)
         {
             foreach (var item in _items)
@@ -64,7 +63,7 @@
                 string itemList = "";
                 foreach (var i in _items)
                 {
-                    itemList += i.Name + " :" + i.FullDescription + "\n";
+                    itemList += "\t" + i.ShortDescription + "\n";
                 }
                 return itemList;
             }

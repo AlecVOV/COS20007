@@ -13,10 +13,8 @@ namespace DrawingShape
             _background = background;
         }
 
-        public Drawing() : this(Color.White)
-        {
+        public Drawing() : this(Color.White) { }
 
-        }
         public List<Shape> SelectedShapes
         {
             get
@@ -41,15 +39,8 @@ namespace DrawingShape
 
         public Color Background
         {
-            get
-            {
-                return _background;
-            }
-
-            set
-            {
-                _background = value;
-            }
+            get { return _background; }
+            set { _background = value; }
         }
 
         public void Draw()

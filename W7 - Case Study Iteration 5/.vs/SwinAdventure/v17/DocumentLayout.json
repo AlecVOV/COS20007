@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 5 (not yet)\\swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w7 - case study iteration 5\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 5 (not yet)\\swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w7 - case study iteration 5\\testswinadventure\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 5 (not yet)\\testswinadventure\\lookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w7 - case study iteration 5\\testswinadventure\\lookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\lookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w7 - case study iteration 5\\testswinadventure\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,53 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BagTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\BagTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\BagTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\BagTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\BagTest.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:34:46.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LookCommandTest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\LookCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\LookCommandTest.cs",
               "RelativeDocumentMoniker": "TestSwinAdventure\\LookCommandTest.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\LookCommandTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\LookCommandTest.cs",
               "RelativeToolTip": "TestSwinAdventure\\LookCommandTest.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAWwEsAAAAJAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T08:08:11.095Z",
-              "IsPinned": true
+              "WhenOpened": "2024-06-30T11:34:06.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\PlayerTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\PlayerTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\PlayerTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:33:47.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\Program.cs",
-              "RelativeDocumentMoniker": "SwinAdventure\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\Program.cs",
-              "RelativeToolTip": "SwinAdventure\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\Inventory.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\Inventory.cs",
+              "RelativeToolTip": "SwinAdventure\\Inventory.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T16:34:16.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\LookCommand.cs",
-              "RelativeDocumentMoniker": "SwinAdventure\\LookCommand.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\LookCommand.cs",
-              "RelativeToolTip": "SwinAdventure\\LookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T09:31:41.685Z",
+              "WhenOpened": "2024-06-30T11:33:13.225Z",
               "EditorCaption": ""
             }
           ]

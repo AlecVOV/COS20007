@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477EE5C-BFB9-4578-A99E-3E36C7DAF7BA}|SwinAdventure\\SwinAdventure.csproj|solutionrelative:swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\testswinadventure\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\testswinadventure\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\testswinadventure\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|solutionrelative:testswinadventure\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF095A4-040D-48E7-B0A5-A958B6C5F22D}|TestSwinAdventure\\TestSwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w6 - case study iteration 4\\testswinadventure\\lookcommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,42 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LookCommandTest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\LookCommandTest.cs",
-              "RelativeDocumentMoniker": "TestSwinAdventure\\LookCommandTest.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\LookCommandTest.cs",
-              "RelativeToolTip": "TestSwinAdventure\\LookCommandTest.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAWwEsAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\SwinAdventure\\Inventory.cs",
+              "RelativeDocumentMoniker": "SwinAdventure\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\SwinAdventure\\Inventory.cs",
+              "RelativeToolTip": "SwinAdventure\\Inventory.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T08:08:11.095Z",
+              "WhenOpened": "2024-06-30T11:32:27.131Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LookCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\SwinAdventure\\LookCommand.cs",
-              "RelativeDocumentMoniker": "SwinAdventure\\LookCommand.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\SwinAdventure\\LookCommand.cs",
-              "RelativeToolTip": "SwinAdventure\\LookCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "DocumentIndex": 4,
+              "Title": "LookCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\LookCommandTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\LookCommandTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\LookCommandTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\LookCommandTest.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T09:31:41.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T11:28:07.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BagTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\BagTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\BagTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\BagTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\BagTest.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:27:42.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\InventoryTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\InventoryTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\InventoryTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\InventoryTest.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:27:36.132Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "TestSwinAdventure\\PlayerTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 4\\TestSwinAdventure\\PlayerTest.cs",
+              "RelativeToolTip": "TestSwinAdventure\\PlayerTest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:27:12.011Z",
+              "IsPinned": true
             }
           ]
         }

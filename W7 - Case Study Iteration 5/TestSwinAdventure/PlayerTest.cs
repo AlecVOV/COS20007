@@ -10,7 +10,7 @@
         public void Setup()
         {
             _vovinamStudent = new Player("Chi Lon Thon", "Dedicated Vovinam Practitioner");
-            _uniform = new Item(new string[] { "white", "gi", "clothing" }, "Traditional Vovinam uniform", "Worn during practice");
+            _uniform = new Item(new string[] { "blue", "gi", "clothing" }, "Traditional Vovinam uniform", "Worn during practice");
             _vovinamStudent.Inventory.AddItem(_uniform);
         }
 
@@ -41,7 +41,7 @@
         [Test]
         public void StudentDescription()
         {
-            Assert.That(_vovinamStudent.FullDescription, Is.EqualTo("You are Chi Lon Thon\nYou are known as: Dedicated Vovinam Practitioner\nYou have Traditional Vovinam uniform :Worn during practice\n"));
+            Assert.That(_vovinamStudent.FullDescription, Is.EqualTo("You are Chi Lon Thon\nYou are known as: Dedicated Vovinam Practitioner\nYou have \tTraditional Vovinam uniform: blue\n"));
         }
     }
 }

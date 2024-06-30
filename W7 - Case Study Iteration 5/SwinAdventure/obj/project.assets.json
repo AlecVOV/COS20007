@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\SwinAdventure.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\SwinAdventure.csproj",
       "projectName": "SwinAdventure",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\SwinAdventure.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\SwinAdventure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\SwinAdventure\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\SwinAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -29,7 +29,7 @@ namespace SwinAdventure.Test
         [Test]
         public void TestLookAtMe()
         {
-            Assert.AreEqual("You are Chi Lon Thon\nYou are known as: Chi's Player\nYou have a big bag :Item Name: a big bag\nDescription: It can contain everything.\nContaining: a gem :This is shiny red gem\n\n", look.Execute(norStudent, new string[] { "look", "at", "inventory" }));
+            Assert.AreEqual("You are Chi Lon Thon\nYou are known as: Chi's Player\nYou have \ta big bag: bag\n", look.Execute(norStudent, new string[] { "look", "at", "inventory" }));
         }
 
         [Test]

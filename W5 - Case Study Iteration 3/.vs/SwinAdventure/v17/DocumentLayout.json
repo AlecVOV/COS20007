@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\W5 - Case Study Iteration 3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2389546-66FD-48EC-BE2F-4E22849EF1EF}|IdentifiableObject\\SwinAdventure.csproj|c:\\users\\admin\\source\\repos\\w5 - case study iteration 3\\identifiableobject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2389546-66FD-48EC-BE2F-4E22849EF1EF}|IdentifiableObject\\SwinAdventure.csproj|solutionrelative:identifiableobject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA09DA2F-53B0-4E7F-9DEA-0D139CF51EB7}|TestIdentifiableObject\\TestSwinadventure.csproj|c:\\users\\admin\\source\\repos\\w5 - case study iteration 3\\testidentifiableobject\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA09DA2F-53B0-4E7F-9DEA-0D139CF51EB7}|TestIdentifiableObject\\TestSwinadventure.csproj|solutionrelative:testidentifiableobject\\bagtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W5 - Case Study Iteration 3\\IdentifiableObject\\Inventory.cs",
+              "RelativeDocumentMoniker": "IdentifiableObject\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W5 - Case Study Iteration 3\\IdentifiableObject\\Inventory.cs",
+              "RelativeToolTip": "IdentifiableObject\\Inventory.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:07:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BagTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W5 - Case Study Iteration 3\\TestIdentifiableObject\\BagTest.cs",
+              "RelativeDocumentMoniker": "TestIdentifiableObject\\BagTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\W5 - Case Study Iteration 3\\TestIdentifiableObject\\BagTest.cs",
+              "RelativeToolTip": "TestIdentifiableObject\\BagTest.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:24:10.499Z",
+              "EditorCaption": ""
             }
           ]
         }

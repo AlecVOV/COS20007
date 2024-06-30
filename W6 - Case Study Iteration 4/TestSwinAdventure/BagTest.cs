@@ -44,7 +44,7 @@ namespace SwinAdventure.Test
         [Test]
         public void TestBagFullDescription()
         {
-            string expectedDescription = "Item Name: Gear Bag\nDescription: A bag for carrying martial arts gear\nContaining: Vovinam Belt :A blue belt\nTraining Gloves :A pair of protective gloves\n";
+            string expectedDescription = "Item Name: Gear Bag\nDescription: A bag for carrying martial arts gear\nContaining: \tVovinam Belt: belt\n\tTraining Gloves: gloves\n";
             Assert.AreEqual(expectedDescription, _bag.FullDescription);
         }
 

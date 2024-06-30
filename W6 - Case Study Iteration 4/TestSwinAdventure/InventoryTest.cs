@@ -12,7 +12,7 @@
         public void Setup()
         {
             _vovinamInventory = new Inventory();
-            _uniform = new Item(new string[] { "white", "gi", "clothing" }, "Traditional Vovinam uniform", "Worn during practice");
+            _uniform = new Item(new string[] { "blue", "gi", "clothing" }, "Traditional Vovinam uniform", "Worn during practice");
             _belt = new Item(new string[] { "rank", "belt", "sash" }, "Black belt", "Signifies advanced skill level");
             _trainingEquipment = new Item(new string[] { "wooden", "sword", "weapon" }, "Wooden training sword", "Used for practicing techniques");
             _vovinamInventory.AddItem(_uniform);
@@ -48,7 +48,7 @@
         [Test]
         public void VovinamInventoryDesc()
         {
-            Assert.That(_vovinamInventory.ItemList, Is.EqualTo("Traditional Vovinam uniform :Worn during practice\nBlack belt :Signifies advanced skill level\nWooden training sword :Used for practicing techniques\n"));
+            Assert.That(_vovinamInventory.ItemList, Is.EqualTo("\tTraditional Vovinam uniform: blue\n\tBlack belt: rank\n\tWooden training sword: wooden\n"));
         }
     }
 }

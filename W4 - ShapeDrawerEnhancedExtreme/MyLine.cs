@@ -20,24 +20,18 @@ namespace DrawingShape
             set { _endY = value; }
         }
 
-        public MyLine() : this(Color.Green)
-        {
-        }
+        public MyLine() : this(Color.Green) { }
 
         public MyLine(Color color) : base(color)
         {
-            Color = color;
             EndX = 700;
             EndY = 200;
         }
 
         public override void Draw()
         {
-            if (Selected)
-            {
-                DrawOutLine();
-            }
-            SplashKit.DrawLine(Color, X, Y, _endX, _endY);
+            if (Selected) { DrawOutLine(); }
+            SplashKit.DrawLine(Color, X, Y, EndX, EndY);
         }
 
         public override void DrawOutLine()

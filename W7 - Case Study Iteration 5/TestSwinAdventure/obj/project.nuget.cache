@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCb8R7lNoBYiJahoe5uKPX8JeLzgkjIvleuqGA6f/PhwjlMLENfW+Vk4tSGEbeD4C13AmVErED3zEXCuZREH+Q==",
+  "dgSpecHash": "qjPScugPk9wlTOz+Fpsaj6VxXnONZip7iqN/AxW7RsNP2BdaDSk3rktXXfnA5QYlxOVfpPoWYsnHqGxVkfsCGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\W6 - Case Study Iteration 5 (not yet)\\TestSwinAdventure\\TestSwinAdventure.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\W7 - Case Study Iteration 5\\TestSwinAdventure\\TestSwinAdventure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
