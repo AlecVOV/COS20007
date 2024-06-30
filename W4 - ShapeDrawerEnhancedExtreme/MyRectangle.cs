@@ -42,6 +42,5 @@ namespace DrawingShape
         {
             return SplashKit.PointInRectangle(pt, SplashKit.RectangleFrom(X, Y, Width, Height));
         }
-
     }
 }

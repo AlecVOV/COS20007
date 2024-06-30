@@ -39,23 +39,19 @@ namespace DrawingShape
                     if (kindToAdd == ShapeKind.Rectangle)
                     {
                         MyRectangle newRect = new MyRectangle();
-                        newRect.X = SplashKit.MouseX();
-                        newRect.Y = SplashKit.MouseY();
                         newShape = newRect;
                     }
                     else if (kindToAdd == ShapeKind.Circle)
                     {
                         MyCircle newCircle = new MyCircle();
-                        newCircle.X = SplashKit.MouseX();
-                        newCircle.Y = SplashKit.MouseY();
                         newShape = newCircle;
                     }
                     else if (kindToAdd == ShapeKind.Line)
                     {
                         newShape = new MyLine();
-                        newShape.X = SplashKit.MouseX();
-                        newShape.Y = SplashKit.MouseY();
                     }
+                    newShape.X = SplashKit.MouseX();
+                    newShape.Y = SplashKit.MouseY();
                     myDrawing.AddShape(newShape);
                 }
 

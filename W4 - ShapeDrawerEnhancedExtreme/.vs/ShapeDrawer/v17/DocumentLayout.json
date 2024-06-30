@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\w4 - shapedrawerenhancedextreme\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\w4 - shapedrawerenhancedextreme\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\w4 - shapedrawerenhancedextreme\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|c:\\users\\admin\\source\\repos\\w4 - shapedrawerenhancedextreme\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD599BF-02C0-4726-B8BA-7573C7390A6A}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\Shape.cs",
               "RelativeToolTip": "Shape.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAA9wA8AAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T12:30:31.124Z",
               "IsPinned": true,
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MyRectangle.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\MyRectangle.cs",
               "RelativeDocumentMoniker": "MyRectangle.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\MyRectangle.cs",
               "RelativeToolTip": "MyRectangle.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T12:30:04.866Z",
               "IsPinned": true,
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MyCircle.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\MyCircle.cs",
               "RelativeDocumentMoniker": "MyCircle.cs",
@@ -79,8 +79,7 @@
               "ViewState": "AQIAABkAAAAAAAAAAAA5wAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T12:29:39.673Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -90,7 +89,7 @@
               "RelativeDocumentMoniker": "MyLine.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\MyLine.cs",
               "RelativeToolTip": "MyLine.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwBkAAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA3wC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T12:29:54.12Z",
               "IsPinned": true,
@@ -104,7 +103,7 @@
               "RelativeDocumentMoniker": "Drawing.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\Drawing.cs",
               "RelativeToolTip": "Drawing.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswCsAAAAJAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T12:29:29.342Z",
               "IsPinned": true,
@@ -118,7 +117,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\W4 - ShapeDrawerEnhancedExtreme\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAYwEsAAAA5AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T13:01:20.283Z",
               "IsPinned": true,

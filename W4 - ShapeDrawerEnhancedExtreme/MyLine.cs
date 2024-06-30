@@ -4,8 +4,7 @@ namespace DrawingShape
 {
     public class MyLine : Shape
     {
-        private float _endX;
-        private float _endY;
+        private float _endX, _endY;
         private int CircleRadius = 10;
 
         public float EndX
