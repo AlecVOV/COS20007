@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrhGVwHtA3wUx6FZyUZvvt7ymFU4oJWiLQHtc7TaT6bWCXUfRuByqaHbrr61vkSkW1mXRj61+2XUNjTF/DbvfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Student_Management_System\\Student_Management_System\\Student_Management_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

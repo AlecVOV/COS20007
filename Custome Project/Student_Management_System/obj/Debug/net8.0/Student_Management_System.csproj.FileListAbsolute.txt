@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.exe
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.deps.json
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.runtimeconfig.json
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.dll
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.pdb
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.dll
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\refint\Student_Management_System.dll
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.pdb
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\ref\Student_Management_System.dll
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_.47EFD387.Up2Date
